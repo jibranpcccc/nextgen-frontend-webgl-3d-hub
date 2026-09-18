@@ -4,10 +4,17 @@
     <title>Next-Gen Frontend &amp; WebGL 3D Hub</title>
     <link>https://jibranpcccc.github.io/nextgen-frontend-webgl-3d-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 16 Sep 2026 10:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:20:04 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/nextgen-frontend-webgl-3d-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: Next.js GitHub Discussions (GitHub)</title>
+      <link>https://github.com/vercel/next.js/discussions</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/nextgen-frontend-webgl-3d-hub/#nextgen-frontend-webgl-3d-hub-github-20260918-1-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 06:20:04 GMT</pubDate>
+      <description>Newly verified community added to Next-Gen Frontend &amp; WebGL 3D Hub: Active community discussions and RFCs on Next.js architectures, streaming SSR, and edge rendering.</description>
+    </item>
+<item>
       <title>Next-Gen Frontend &amp; WebGL 3D Hub Initial Release</title>
       <link>https://jibranpcccc.github.io/nextgen-frontend-webgl-3d-hub/</link>
       <pubDate>Wed, 16 Sep 2026 10:20:21 GMT</pubDate>
